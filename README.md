@@ -11,4 +11,4 @@
 - 📫 How to reach me: wijak0996124591@gmail.com
 - 😄 Pronouns: KRiT
 
-![bloggif_61e595659821c](https://user-images.githubusercontent.com/94544396/149805011-fbfccdb1-ba65-4f77-ab56-bc5f166e7f41.gif)
+<a href="https://th.bloggif.com/" title="การตัดต่อภาพ"><img src="https://data.bloggif.com/distant/user/store/f/d/7/4/20779d8ba27d27dbc8bf4cc622b347df.gif" alt="ตัดต่อสร้าง Bloggif" width="400" height="400" /></a>
